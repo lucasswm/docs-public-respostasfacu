@@ -12,3 +12,5 @@ sidebar_label: ADG3 - Atividade Diagnóstica
 ![Pergunta nº3](/img/arquitetura-computadores/adg3/questao3.png)
 -
 ![Pergunta nº4](/img/arquitetura-computadores/adg3/questao4.png)
+-
+![Pergunta nº4](/img/arquitetura-computadores/adg3/pergunta4.png)
