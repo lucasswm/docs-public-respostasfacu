@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: ADG1 - Atividade Diagnóstica
+sidebar_label: ADG2 - Atividade Diagnóstica
 ---
 
 # Respostas
