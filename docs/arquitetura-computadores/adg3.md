@@ -5,10 +5,10 @@ sidebar_label: ADG3 - Atividade Diagnóstica
 
 # Respostas
 
-![Pergunta nº1](/img/arquitetura-computadores/adg2/pergunta1.png)
+![Pergunta nº1](/img/arquitetura-computadores/adg3/pergunta1.png)
 -
-![Pergunta nº2](/img/arquitetura-computadores/adg2/pergunta2.png)
+![Pergunta nº2](/img/arquitetura-computadores/adg3/pergunta2.png)
 -
-![Pergunta nº3](/img/arquitetura-computadores/adg2/pergunta3.png)
+![Pergunta nº3](/img/arquitetura-computadores/adg3/pergunta3.png)
 -
-![Pergunta nº4](/img/arquitetura-computadores/adg2/pergunta4.png)
+![Pergunta nº4](/img/arquitetura-computadores/adg3/pergunta4.png)
