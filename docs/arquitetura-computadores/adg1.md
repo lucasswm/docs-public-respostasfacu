@@ -41,3 +41,24 @@ São componentes de armazenamento externo que unidade de armazenamento de um com
 - [ ] Pendrive, HD Externo, Cartão de Memória e RAM. ❌
 
 -
+
+## #3 Questão
+
+  
+
+
+Existem diversas classificações para as funções dos computadores, porém existe a classificação por unidades básicas, de acordo com as funções que elas controlam nos computadores  
+  
+A unidade de processamento de um computador determina:
+
+  
+
+- [x] Onde acontece o processamento das informações, Unidade Central de Processamento. ✅
+
+- [ ] Onde acontece o processamento e a saída das informações. ❌
+
+- [ ] Onde os dados podem ser visualizados. ❌
+
+- [ ] Onde os dados são retornados ao usuário. ❌
+
+- [ ] Onde podemos inserir/entrar com dados no computador. ❌
