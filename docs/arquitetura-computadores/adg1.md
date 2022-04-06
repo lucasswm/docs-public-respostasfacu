@@ -16,7 +16,9 @@ Dentre as opções a seguir, qual delas representa a maior medida em bytes?
  - [ ] HD com 3.000.000 Megabytes. ❌
  - [ ] HD com 3072 Gigabytes. ❌
  - [ ] HD com 750 Gygabytes. ❌
- 
+
+
+
  -
 
  ## #2 Questão
