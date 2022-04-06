@@ -16,6 +16,8 @@ Dentre as opções a seguir, qual delas representa a maior medida em bytes?
  - [ ] HD com 3.000.000 Megabytes. ❌
  - [ ] HD com 3072 Gigabytes. ❌
  - [ ] HD com 750 Gygabytes. ❌
+ 
+ -
 
  ## #2 Questão
 
@@ -39,8 +41,3 @@ São componentes de armazenamento externo que unidade de armazenamento de um com
 - [ ] Pendrive, HD Externo, Cartão de Memória e RAM. ❌
 
 -
-![Pergunta nº2](/img/arquitetura-computadores/adg1/pergunta2.jpeg)
--
-![Pergunta nº3](/img/arquitetura-computadores/adg1/pergunta3.jpeg)
--
-![Pergunta nº4](/img/arquitetura-computadores/adg1/pergunta4.jpeg)
