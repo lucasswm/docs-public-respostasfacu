@@ -17,6 +17,27 @@ Dentre as opções a seguir, qual delas representa a maior medida em bytes?
  - [ ] HD com 3072 Gigabytes. ❌
  - [ ] HD com 750 Gygabytes. ❌
 
+ ## #2 Questão
+
+  
+
+
+Existem diversas classificações para as funções dos computadores, porém existe a classificação por unidades básicas, de acordo com as funções que elas controlam nos computadores.  
+  
+São componentes de armazenamento externo que unidade de armazenamento de um computador:
+
+  
+
+- [x] Pendrive, HD Externo e Cartão de Memória. ✅
+
+- [ ] Cartão de memória, HD Externo, RAM e CD/DVD-RW. ❌
+
+- [ ] Cartão de memória, HD, Pendrive e ROM. ❌
+
+- [ ] HD Externo, RAM, conexão com Internet, cartão de memória e ROM. ❌
+
+- [ ] Pendrive, HD Externo, Cartão de Memória e RAM. ❌
+
 -
 ![Pergunta nº2](/img/arquitetura-computadores/adg1/pergunta2.jpeg)
 -
