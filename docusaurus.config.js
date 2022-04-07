@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/logo.png',
   organizationName: 'lucasswm', // Usually your GitHub org/user name.
   projectName: 'docs-public-respostasfacu', // Usually your repo name.
-
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   presets: [
     [
       'classic',
@@ -113,6 +113,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    
 };
 
 module.exports = config;
