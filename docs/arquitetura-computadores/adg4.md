@@ -66,3 +66,24 @@ A notação (p^q) corresponde
 - [ ] XOR.
 
 - [x] NAND. ✅
+
+
+
+## #4 Questão
+
+  
+
+
+O complemento de uma variável será sempre:
+
+  
+
+- [ ] A mesma variável. 
+
+- [x] O inverso da variável. ✅
+
+- [ ] Um valor falso – 0.
+
+- [ ] Um valor positivo – 1.
+
+- [ ] A negação da variável.
