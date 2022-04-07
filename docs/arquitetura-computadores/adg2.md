@@ -81,3 +81,34 @@ Pode-se afirmar que o barramento de dados:
 - [ ] Determina como as informações são processadas pela CPU.
 
 - [ ] Faz a transição de dados entre a ULA e a Unidade de Controle apenas.
+
+
+
+## #4 Questão
+
+  
+
+
+A memória ROM é um tipo de memória principal de um computador. Pode-se dizer que este tipo de memória:  
+  
+I – É usado para gravar programas de inicialização – Firmwares.  
+  
+II – Faz o controle da comunicação da memória RAM com a CPU.  
+  
+III – É um tipo de memória volátil e pode ser apagada e reprogramada.  
+  
+IV – É um tipo de memória não volátil pois não se apaga quando desligamos o computador.  
+  
+Assinale a opção que corresponde a alternativa correta:
+
+  
+
+- [ ] As afirmativas I e II estão corretas. 
+
+- [ ] As afirmativas II e IV estão corretas.
+
+- [x] HD com 3.000.000 Megabytes. ✅
+
+- [ ] As afirmativas I e IV estão corretas.
+
+- [ ] As afirmativas III e IV estão corretas.
