@@ -12,10 +12,10 @@ As medidas de tamanho usadas em um computador são baseadas em bytes, que são u
 Dentre as opções a seguir, qual delas representa a maior medida em bytes?
 
  - [x] HD com 0,5 Petabytes. ✅
- - [ ] HD com 2,7 Terabytes. ❌
- - [ ] HD com 3.000.000 Megabytes. ❌
- - [ ] HD com 3072 Gigabytes. ❌
- - [ ] HD com 750 Gygabytes. ❌
+ - [ ] HD com 2,7 Terabytes. 
+ - [ ] HD com 3.000.000 Megabytes. 
+ - [ ] HD com 3072 Gigabytes. 
+ - [ ] HD com 750 Gygabytes. 
 
 
 
@@ -33,14 +33,10 @@ São componentes de armazenamento externo que unidade de armazenamento de um com
   
 
 - [x] Pendrive, HD Externo e Cartão de Memória. ✅
-
-- [ ] Cartão de memória, HD Externo, RAM e CD/DVD-RW. ❌
-
-- [ ] Cartão de memória, HD, Pendrive e ROM. ❌
-
-- [ ] HD Externo, RAM, conexão com Internet, cartão de memória e ROM. ❌
-
-- [ ] Pendrive, HD Externo, Cartão de Memória e RAM. ❌
+- [ ] Cartão de memória, HD Externo, RAM e CD/DVD-RW. 
+- [ ] Cartão de memória, HD, Pendrive e ROM. 
+- [ ] HD Externo, RAM, conexão com Internet, cartão de memória e ROM. 
+- [ ] Pendrive, HD Externo, Cartão de Memória e RAM. 
 
 -
 
