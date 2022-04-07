@@ -5,12 +5,22 @@ sidebar_label: ADG4 - Atividade Diagnóstica
 
 # Respostas
 
-![Pergunta nº1](/img/arquitetura-computadores/adg4/pergunta1.jpg)
--
-![Pergunta nº2](/img/arquitetura-computadores/adg4/pergunta2.jpg)
--
-![Pergunta nº3](/img/arquitetura-computadores/adg4/pergunta3.jpg)
--
-![Pergunta nº4](/img/arquitetura-computadores/adg4/pergunta4.jpg)
--
-![Pergunta nº5](/img/arquitetura-computadores/adg4/pergunta5.png)
+
+## #1 Questão
+
+  
+
+
+Qual será a saída (resultado) para os valores de p = 1 e q = 0 dentro da tabela-verdade AND?
+
+  
+
+- [ ] Retorna verdadeiro (1). 
+
+- [ ] Não pode retornar valor nenhum.
+
+- [x] Retorna falso (0). ✅
+
+- [ ] Retorna uma negação - !p.
+
+- [ ] Retorna uma negação - !q.
