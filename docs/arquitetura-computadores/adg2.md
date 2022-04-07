@@ -58,3 +58,26 @@ Está(ao) correta(s) a(s) alternativa(s)
 - [ ] II e IV.
 
 - [ ] III e IV.
+
+
+
+## #3 Questão
+
+  
+
+
+Os barramentos de um computador permitem que as informações transitem dentro de um computador. Existem 3 tipos de barramentos: o barramento de dados, o barramento de endereços e o barramento de controle.
+
+Pode-se afirmar que o barramento de dados:
+
+  
+
+- [x] Determina diretamente o desempenho do sistema, pois quanto maior o número de vias de comunicação, maior o número de bits transferidos. ✅
+
+- [ ] Determina quanto de memória pode ser endereçada.
+
+- [ ] Serve para receber a entrada de dados e a saída deles, através dos diversos dispositivos.
+
+- [ ] Determina como as informações são processadas pela CPU.
+
+- [ ] Faz a transição de dados entre a ULA e a Unidade de Controle apenas.
