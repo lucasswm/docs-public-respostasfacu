@@ -19,7 +19,7 @@ Dentre as opções a seguir, qual delas representa a maior medida em bytes?
 
 
 
- -
+ 
 
  
 ## #2 Questão
