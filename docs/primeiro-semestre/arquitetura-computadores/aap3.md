@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: AAP2 - Atividade Diagnóstica - A
+sidebar_label: AAP3 - Atividade Diagnóstica - A
 ---
 
 # Respostas
@@ -15,15 +15,15 @@ Assinale a alternativa que indica a base em que o sistema de numeração decimal
 
   
 
-- [ ] 2.
+- [ ] 2
 
-- [ ] 8.
+- [ ] 8
 
-- [x] 10. ✅
+- [x] 10 ✅
 
-- [ ] 16.
+- [ ] 16
 
-- [ ] 12.
+- [ ] 12 
 
 
 
