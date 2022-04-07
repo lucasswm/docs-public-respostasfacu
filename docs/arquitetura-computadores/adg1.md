@@ -65,3 +65,26 @@ A unidade de processamento de um computador determina:
 - [ ] Onde os dados são retornados ao usuário. 
 
 - [ ] Onde podemos inserir/entrar com dados no computador. 
+
+
+
+## #4 Questão
+
+  
+
+
+As gerações dos computadores foram classificadas pela época em que os aparelhos foram lançados, e também pela tecnologia que continham.
+
+Um modelo de processador de 64 Bits pertence a qual geração de computadores?
+
+  
+
+- [x] 5. Geração. ✅
+
+- [ ] 1. Geração.
+
+- [ ] 2. Geração.
+
+- [ ] 3. Geração.
+
+- [ ] 4. Geração.
