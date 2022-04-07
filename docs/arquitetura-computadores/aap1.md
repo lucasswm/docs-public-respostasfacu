@@ -45,3 +45,23 @@ São funções básicas do computador:
 - [ ] Ler programas e executar tarefas, ler e gravar arquivos.
 
 - [ ] Processar informações, programas e se conectar a outros computadores.
+
+
+
+## #3 Questão
+
+  
+
+
+São componentes que pertencem à unidade de entrada de um computador:
+  
+
+- [x] Scanner, teclado, mouse, leitor de códigos de barra. ✅
+
+- [ ] Conexão com internet, scanner, teclado.
+
+- [ ] Pen drive, teclado, mouse, leitor de códigos de barra.
+
+- [ ] Scanner, teclado, mouse, caixas de som.
+
+- [ ] Teclado, mouse, leitor de códigos de barra, cartão de memória.
