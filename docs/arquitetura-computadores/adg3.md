@@ -24,3 +24,24 @@ Um byte é formado por
 - [x] Um conjunto de 8 bits. ✅
 
 - [ ] Um conjunto de 10 bits.
+
+
+
+## #2 Questão
+
+  
+
+
+Marque a alternativa de numeração em octal
+
+  
+
+- [ ] 5212. ✅
+
+- [x] 13228.
+
+- [ ] 32A16.
+
+- [ ] 2110.
+
+- [ ] FA316.
