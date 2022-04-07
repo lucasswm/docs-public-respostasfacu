@@ -45,3 +45,24 @@ A tabela-verdade, referente ao operador lógico OR, caracteriza-se por:
 - [x] Uma das proposições tem de ser verdadeira. ✅
 
 - [ ] Nenhuma das proposições podem ser negadas.
+
+
+
+## #3 Questão
+
+  
+
+
+A notação (p^q) corresponde
+
+  
+
+- [ ] AND. 
+
+- [ ] OR.
+
+- [ ] XNOR.
+
+- [ ] XOR.
+
+- [x] NAND. ✅
