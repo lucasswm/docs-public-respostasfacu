@@ -65,3 +65,24 @@ São componentes que pertencem à unidade de entrada de um computador:
 - [ ] Scanner, teclado, mouse, caixas de som.
 
 - [ ] Teclado, mouse, leitor de códigos de barra, cartão de memória.
+
+
+
+## #4 Questão
+
+  
+
+
+São componentes que pertencem à unidade de armazenamento de um computador:
+
+  
+
+- [x] Pen drive, HD externo, RAM, cartão de memória, HD, ROM. ✅
+
+- [ ] Cartão de memória, scanner, HD externo, RAM, HD.
+
+- [ ] HD externo, RAM, conexão com internet, cartão de memória, HD, ROM.
+
+- [ ] Leitor de códigos de barra, pen drive, HD externo, RAM, cartão de memória, HD, ROM.
+
+- [ ] Pen drive, scanner, HD, ROM, RAM.
