@@ -36,15 +36,15 @@ Marque a alternativa de numeração em octal
 
   
 
-- [ ] 5212. ✅
+- [ ] 5212 ✅
 
-- [x] 13228.
+- [x] 13228
 
-- [ ] 32A16.
+- [ ] 32A16
 
-- [ ] 2110.
+- [ ] 2110
 
-- [ ] FA316.
+- [ ] FA316
 
 
 
@@ -57,7 +57,7 @@ Qual é a representação matemática correta para o número decimal 1352?
 
   
 
-- [ ]  (1 x 102) + (3 x 101) + (2 x 100).
+- [ ] (1 x 102) + (3 x 101) + (2 x 100).
 
 - [ ] (1 x 103) + (3 x 101) + (5 x 101) + (2 x 100).
 
