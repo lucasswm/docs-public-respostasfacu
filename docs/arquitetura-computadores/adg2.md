@@ -26,3 +26,35 @@ Qual a função do barramento de endereços?
 - [ ] Endereçar os dados dos arquivos no computador dentro dos discos.
 
 - [ ] Endereçar a memória de armazenamento do computador.
+
+
+## #2 Questão
+
+  
+
+
+O que define um projeto de um processador é a quantidade de instruções de máquina que se deseja que ele execute, quanto menor este conjunto de instruções, mais rápido se torna um processador.  
+  
+Enunciado: Sobre as instruções de um processador, é correto dizer:  
+  
+I- Os processadores com tecnologia CISC são capazes de processar centenas de conjuntos complexos de instruções.  
+  
+II- Os processadores com tecnologia RISC apresentam em altas velocidades superaquecimento.  
+  
+III- Os processadores com tecnologia RISC têm um conjunto reduzido de instruções.
+
+IV- Nos processadores com tecnologia CISC a ideia dos fabricantes era produzir processadores cada vez menos potentes.  
+  
+Está(ao) correta(s) a(s) alternativa(s)
+
+  
+
+- [ ] I, II e III.
+
+- [ ] II, III e IV.
+
+- [x] I e III. ✅
+
+- [ ] II e IV.
+
+- [ ] III e IV.
