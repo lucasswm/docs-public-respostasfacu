@@ -36,9 +36,9 @@ Marque a alternativa de numeração em octal
 
   
 
-- [ ] 5212 ✅
+- [ ] 5212
 
-- [x] 13228
+- [x] 13228 ✅
 
 - [ ] 32A16
 
