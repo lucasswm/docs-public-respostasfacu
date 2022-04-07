@@ -58,10 +58,10 @@ A unidade de processamento de um computador determina:
 
 - [x] Onde acontece o processamento das informações, Unidade Central de Processamento. ✅
 
-- [ ] Onde acontece o processamento e a saída das informações. ❌
+- [ ] Onde acontece o processamento e a saída das informações. 
 
-- [ ] Onde os dados podem ser visualizados. ❌
+- [ ] Onde os dados podem ser visualizados. 
 
-- [ ] Onde os dados são retornados ao usuário. ❌
+- [ ] Onde os dados são retornados ao usuário. 
 
-- [ ] Onde podemos inserir/entrar com dados no computador. ❌
+- [ ] Onde podemos inserir/entrar com dados no computador. 
