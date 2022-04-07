@@ -5,14 +5,24 @@ sidebar_label: ADG2 - Atividade Diagnóstica
 
 # Respostas
 
-## #2 Questão
 
-Existem diversas classificações para as funções dos computadores, porém existe a classificação por unidades básicas, de acordo com as funções que elas controlam nos computadores.
+## #1 Questão
 
-São componentes de armazenamento externo que unidade de armazenamento de um computador:
+  
 
-Pendrive, HD Externo e Cartão de Memória. ✅
-Cartão de memória, HD Externo, RAM e CD/DVD-RW. ❌
-Cartão de memória, HD, Pendrive e ROM.❌
-HD Externo, RAM, conexão com Internet, cartão de memória e ROM. ❌
-Pendrive, HD Externo, Cartão de Memória e RAM. ❌
+
+Os barramentos de um computador permitem que as informações transitem dentro de um computador. Existem 3 tipos de barramentos, o barramento de dados, o barramento de endereços e o barramento de controle.  
+  
+Qual a função do barramento de endereços?
+
+  
+
+- [ ] Endereçar os dados na ULA e na Unidade de Controle. 
+
+- [x] Interligar a CPU à memória fazendo seu endereçamento. ✅
+
+- [ ] Tem a função de encaixar fisicamente as placas de memória RAM.
+
+- [ ] Endereçar os dados dos arquivos no computador dentro dos discos.
+
+- [ ] Endereçar a memória de armazenamento do computador.
