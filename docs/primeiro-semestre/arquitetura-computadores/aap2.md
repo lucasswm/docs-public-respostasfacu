@@ -92,4 +92,4 @@ Os processadores têm dois tipos de tecnologias empregadas pelos seus fabricante
 
 - [ ] CISC e AMD.
 
-- [ ] Multicore e CISC.
+- [ ] Multicore e CISC . 
