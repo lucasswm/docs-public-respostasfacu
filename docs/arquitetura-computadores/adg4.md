@@ -24,3 +24,24 @@ Qual será a saída (resultado) para os valores de p = 1 e q = 0 dentro da tabel
 - [ ] Retorna uma negação - !p.
 
 - [ ] Retorna uma negação - !q.
+
+
+
+## #2 Questão
+
+  
+
+
+A tabela-verdade, referente ao operador lógico OR, caracteriza-se por:
+
+  
+
+- [ ] As duas proposições obrigatoriamente são verdadeiras.
+
+- [ ] As proposições devem ser uma negação e outra falsa.
+
+- [ ] As proposições geram resultado 1 se forem todas 1.
+
+- [x] Uma das proposições tem de ser verdadeira. ✅
+
+- [ ] Nenhuma das proposições podem ser negadas.
