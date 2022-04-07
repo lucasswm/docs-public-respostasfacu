@@ -79,12 +79,12 @@ Um modelo de processador de 64 Bits pertence a qual geração de computadores?
 
   
 
-- [x] 5. Geração. ✅
+- [x] 5ª Geração. ✅
 
-- [ ] 1. Geração.
+- [ ] 1ª Geração.
 
-- [ ] 2. Geração.
+- [ ] 2ª Geração.
 
-- [ ] 3. Geração.
+- [ ] 3ª Geração.
 
-- [ ] 4. Geração.
+- [ ] 4ª Geração.
