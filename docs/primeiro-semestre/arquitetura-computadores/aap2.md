@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: AAP2 - Atividade Diagnóstica - A
+sidebar_label: AAP2 - Atividade Diagnóstica
 ---
 
 # Respostas
