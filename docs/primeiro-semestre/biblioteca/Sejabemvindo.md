@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
 # Seja bem-vindo(a) a nossa biblioteca
@@ -8,4 +8,4 @@ Nessa área, você irá encontrar diversos livros que podem te ajudar durante o 
 
 Colabore com o projeto!
 
-[Livros](pdfs/library)
+[Livros](/static/pdfs/library/Container/)
