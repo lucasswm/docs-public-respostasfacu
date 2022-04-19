@@ -8,4 +8,4 @@ Nessa área, você irá encontrar diversos livros que podem te ajudar durante o 
 
 Colabore com o projeto!
 
-[Livros](/static/pdfs/library/Container/)
+[Livros](/static/pdfs/library/)
